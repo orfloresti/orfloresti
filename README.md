@@ -27,7 +27,7 @@ When I'm not writing scripts or debugging production issues, you can find me:
 ### 📫 Connect with me:
 
 * **Personal Website:** [orfloresti.dev](https://orfloresti.dev/)
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** [orfloresti](https://www.linkedin.com/in/orfloresti/)
 
 ---
 
