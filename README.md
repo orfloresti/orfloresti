@@ -20,7 +20,7 @@ I'm a passionate software developer based in **Tlaxcala, Mexico**, currently wor
 When I'm not writing scripts or debugging production issues, you can find me:
 * 🌱 Caring for my **Alocasia** and **Monstera** collection.
 * 📚 Reading about **Mindset** or classic **Jules Verne** novels.
-* ♟️ ♟️ **Chess Enthusiast:** Catch me playing online at [Chess.com](https://www.chess.com/member/orfloresti) or [Lichess](https://lichess.org/@/orfloresti).
+* ♟️ **Chess Enthusiast:** Catch me playing online at [Chess.com](https://www.chess.com/member/orfloresti) or [Lichess](https://lichess.org/@/orfloresti).
 
 ---
 
