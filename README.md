@@ -1,6 +1,6 @@
 # Hi there! I'm Orlando Flores (orfloresti) 👋
 
-### 🚀 Front-end Developer | Angular Specialist | Tech Enthusiast
+### 🚀 Front-end Developer | Tech Enthusiast
 
 I'm a passionate software developer based in **Tlaxcala, Mexico**, currently working in the **IT industry** with a focus on **Front-end engineering** and **Production Support**. I specialize in building scalable web applications and optimizing development workflows.
 
